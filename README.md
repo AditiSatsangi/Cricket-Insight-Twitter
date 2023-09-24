@@ -26,8 +26,17 @@ The implementation of the Random Forest Classifier is carried out on a dataset c
 ## 5. Discussion:  
 The superior performance of deep learning models in sentiment analysis of cricket tweets suggests that they excel in capturing the nuanced sentiment expressed in text data. However, machine learning models still offer a reasonable baseline for sentiment analysis tasks with less complexity.  6. Conclusion:  In conclusion, the increasing reliance on internet evaluations necessitates the collection of diverse perspectives to facilitate learning from others' viewpoints. Sentiment analysis can be applied to various types of review data, making it a versatile tool. This paper contributes to the field by evaluating the performance of multiple sentiment classification algorithms and proposing a method to enhance classification accuracy. These studies compare various classification methods and select the most accurate approach for sentiment classification.
 Traditional approaches indicate that the SVM classifier outperforms the other algorithms in terms of accuracy.
- 
+![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/2a414ee3-020e-40db-8d48-686619f56ff4)
 
+ ![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/3c5784e8-72dc-40d1-849f-e2d22e80bc49)
+
+![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/43d8ca40-da74-4762-acf9-1ffa21962422)
+
+![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/2678fd89-c8a1-4eb9-aeb1-1cce90b20b64)
+
+
+## 6. CONCLUSION
+In conclusion, the increasing reliance on Internet evaluations necessitates the collection of diverse perspectives to facilitate learning from others' viewpoints. Sentiment analysis can be applied to various types of review data, making it a versatile tool. This paper contributes to the field by evaluating the performance of multiple sentiment classification algorithms and proposing a method to enhance classification accuracy. These studies compare various classification methods and select the most accurate approach for sentiment classification.Traditional approaches indicate that the SVM classifier outperforms the other algorithms in terms of accuracy.
   
 
 
