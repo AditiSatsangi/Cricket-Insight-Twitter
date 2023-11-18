@@ -15,19 +15,30 @@ We employed two different approaches for sentiment analysis:  3.1 Machine Learni
  - Trained traditional machine learning classifiers, including Logistic Regression, Random Classifier, and Support Vector Machines, on these features.
  - Utilized pre-trained word embeddings (e.g., Word2Vec, GloVe) or employed techniques like Word Embedding Layers in neural networks. - Designed and trained neural network architectures such as Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) for sentiment analysis. - Fine-tuned hyperparameters and employed techniques like dropout and batch normalization to enhance model performance. - Assessed deep learning models using the same evaluation metrics as the machine learning models.  4. Results:  The results of our comparative study revealed the following key findings:
 
+   ![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/2a414ee3-020e-40db-8d48-686619f56ff4)
+
 ### A. Logistic Regression:
 Logistic Regression implementation is carried out from the dataset collected from Kaggle. The dataset collected about 51862 tweets from the Twitter application. The method’s accuracy was estimated as 98.0%. Fig. Average Retweets and Favorites Counts and representation.
 ### B. Support Vector Machine: 
 The accuracy for the Support vector machine (SVM) is 98.1%. This provides the highest accuracy in comparison to other machine learning algorithms like Random Forest tree and logistic regression for the given dataset. 
+
+   ![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/917e01e5-4109-4ce8-a139-501970a7c7c8)
+
 ### C. Random Forest Classifier:
 The implementation of the Random Forest Classifier is carried out on a dataset consisting of around 25000 tweets. The accuracy for the random forest classifier is 65.9%. The report consisting of accuracy, f- score and precision is given below.
+
+![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/c570030c-bf65-4b80-ae6e-64dc2488035a)
+
  ### D. Deep Learning:
  The accuracy for the model developed using TensorFlow, CNN gives the accuracy as 94.2% which is more accurate than the random forest classifier. Our CNN model's superior performance underscores the effectiveness of deep learning in handling complex sentiment analysis tasks, especially when dealing with unstructured data like tweets. CNN's ability to automatically learn and extract relevant features from textual data contributed to its impressive accuracy. 
+
+ ![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/760b4648-43df-4288-a48e-ec38f7e160e5)
+
  
 ## 5. Discussion:  
 The superior performance of deep learning models in sentiment analysis of cricket tweets suggests that they excel in capturing the nuanced sentiment expressed in text data. However, machine learning models still offer a reasonable baseline for sentiment analysis tasks with less complexity.  6. Conclusion:  In conclusion, the increasing reliance on internet evaluations necessitates the collection of diverse perspectives to facilitate learning from others' viewpoints. Sentiment analysis can be applied to various types of review data, making it a versatile tool. This paper contributes to the field by evaluating the performance of multiple sentiment classification algorithms and proposing a method to enhance classification accuracy. These studies compare various classification methods and select the most accurate approach for sentiment classification.
 Traditional approaches indicate that the SVM classifier outperforms the other algorithms in terms of accuracy.
-![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/2a414ee3-020e-40db-8d48-686619f56ff4)
+
 
  ![image](https://github.com/AditiSatsangi/Cricket-Insight-Twitter/assets/123658491/3c5784e8-72dc-40d1-849f-e2d22e80bc49)
 
